@@ -1,0 +1,27 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore temporary files related to Python interpreter
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Ignore pipenv virtual environment
+/.venv
+
+# Ignore VS Code settings
+*.vscode
+
+# Ignore Node.js dependencies in any folder called node_modules
+**/node_modules
+
+# Ignore DB files
+*.sqlite3
+*.db
+*.db3
+*.sqlitedb
